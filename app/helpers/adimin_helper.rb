@@ -1,0 +1,2 @@
+module AdiminHelper
+end
